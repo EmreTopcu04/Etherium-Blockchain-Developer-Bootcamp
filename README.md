@@ -1,16 +1,17 @@
-****Ethereum Blockchain Developer Bootcamp****
+# Ethereum Blockchain Developer Bootcamp
 
 Welcome to the Ethereum Blockchain Developer Bootcamp! 🚀
 
-**Overview**
+## Overview
 
 This comprehensive bootcamp is designed to provide me with the essential skills and knowledge needed to become a proficient Ethereum blockchain developer.
 
-**About Ethereum**
+## About Ethereum
 
 Ethereum is a decentralized platform that enables the creation and execution of smart contracts, powered by its native cryptocurrency, Ether (ETH). As a blockchain developer, understanding Ethereum's architecture, smart contracts, and decentralized applications (DApps) is crucial for building innovative and secure solutions.
 
-**Bootcamp Curriculum**
+## Bootcamp Curriculum**
+
 The bootcamp I am doing covers the following key topics:
 
 *  Ethereum Basics
