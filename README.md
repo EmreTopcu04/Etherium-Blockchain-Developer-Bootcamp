@@ -1,4 +1,4 @@
-**Ethereum Blockchain Developer Bootcamp**
+****Ethereum Blockchain Developer Bootcamp****
 
 Welcome to the Ethereum Blockchain Developer Bootcamp! 🚀
 
