@@ -10,7 +10,7 @@ This comprehensive bootcamp is designed to provide me with the essential skills 
 
 Ethereum is a decentralized platform that enables the creation and execution of smart contracts, powered by its native cryptocurrency, Ether (ETH). As a blockchain developer, understanding Ethereum's architecture, smart contracts, and decentralized applications (DApps) is crucial for building innovative and secure solutions.
 
-## Bootcamp Curriculum**
+## Bootcamp Curriculum
 
 The bootcamp I am doing covers the following key topics:
 
